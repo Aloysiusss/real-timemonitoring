@@ -1,0 +1,5 @@
+pip install ultralytics
+pip install --upgrade ultralytics
+
+pip install firebase-admin
+pip install google-cloud-firestore
